@@ -115,7 +115,7 @@ systemd-resolve:x:103:104:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
 messagebus:x:104:105::/nonexistent:/usr/sbin/nologin
 codespace:x:1000:1000::/home/codespace:/bin/bash
 sshd:x:105:65534::/run/sshd:/usr/sbin/nologin
-```
+``` 
 3. Run the command **df** . ***(1 mark)*** 
 ````bash
 Filesystem     1K-blocks     Used Available Use% Mounted on
