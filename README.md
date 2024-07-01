@@ -358,7 +358,7 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6028.4 avail Mem
 ````
 10. Run the command **uname -a**. ***(1 mark)***
 ````bash
-
+Linux codespaces-fb5def 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
 ````
 11. What is the available free memory in the system. ***(1 mark)*** 
 ````bash
