@@ -317,7 +317,44 @@ power management:
 ````
 9. Run the command **top** and type **q** to quit. ***(1 mark)*** 
 ````bash
+processor       : 1
+vendor_id       : AuthenticAMD
+cpu family      : 25
+model           : 1
+model name      : AMD EPYC 7763 64-Core Processor
+stepping        : 1
+microcode       : 0xffffffff
+cpu MHz         : 3243.901
+cache size      : 512 KB
+physical id     : 0
+siblings        : 2
+top - 08:44:44 up 26 min,  0 users,  load average: 0.45, 0.25, 0.40
+Tasks:  26 total,   1 running,  25 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.9 us,  4.2 sy,  0.0 ni, 92.7 id,  0.0 wa,  0.0 hi,  0.2 si,  0.0 st
+MiB Mem :   7929.6 total,    548.4 free,   1518.9 used,   5862.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6028.4 avail Mem 
 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND           
+   8857 codespa+  20   0   21.5g 341076  49920 S   2.0   4.2   0:34.63 node              
+   1923 codespa+  20   0 1326200 103564  45568 S   0.7   1.3   0:09.50 node              
+  17198 codespa+  20   0  103236  14336  12032 S   0.3   0.2   0:00.01 git-remote-http   
+      1 codespa+  20   0    1136    640    640 S   0.0   0.0   0:00.05 docker-init       
+      7 codespa+  20   0    7236   1664   1664 S   0.0   0.0   0:00.01 sleep             
+     49 root      20   0   12196   3480   2560 S   0.0   0.0   0:00.00 sshd              
+   1250 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                
+   1327 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                
+   1910 codespa+  20   0    2624   1536   1536 S   0.0   0.0   0:00.01 sh                
+   2511 codespa+  20   0 1240308  55036  41344 S   0.0   0.7   0:00.37 node              
+   3019 codespa+  20   0 1182892  61724  42240 S   0.0   0.8   0:01.91 node              
+   4103 codespa+  20   0    2616   1664   1664 S   0.0   0.0   0:00.01 sh                
+   4139 root      20   0    2616   1664   1664 S   0.0   0.0   0:00.00 sh                
+   4379 codespa+  20   0   16628  11508   3456 S   0.0   0.1   0:00.16 bash              
+   4890 root      20   0 1983176  87360  52864 S   0.0   1.1   0:00.27 dockerd           
+   4897 root      20   0 1798576  46368  30720 S   0.0   0.6   0:00.45 containerd        
+   8523 codespa+  20   0    2616   1536   1536 S   0.0   0.0   0:00.00 sh                
+   8571 root      20   0    2616   1408   1408 S   0.0   0.0   0:00.00 sh                
+   8868 codespa+  20   0 1240308  54476  41216 S   0.0   0.7   0:00.30 node              
+   8894 codespa+  20   0 1003744  70428  40704 S   0.0   0.9   0:02.31 node  
 ````
 10. Run the command **uname -a**. ***(1 mark)***
 ````bash
