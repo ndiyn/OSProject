@@ -244,7 +244,12 @@ README.md  images
 ````
 6. Run the command **ls -asl** . ***(1 mark)*** 
 ````bash
-
+total 40
+ 4 drwxrwxrwx+ 4 codespace root  4096 Jul  1 08:20 .
+ 4 drwxr-xrwx+ 5 codespace root  4096 Jul  1 08:20 ..
+ 4 drwxrwxrwx+ 9 codespace root  4096 Jul  1 08:41 .git
+24 -rw-rw-rw-  1 codespace root 22199 Jul  1 08:41 README.md
+ 4 drwxrwxrwx+ 2 codespace root  4096 Jul  1 08:20 images
 ````
 7. Run the command **free -h** . ***(1 mark)*** 
 ````bash
