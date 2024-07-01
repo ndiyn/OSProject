@@ -361,8 +361,9 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.   6028.4 avail Mem
 Linux codespaces-fb5def 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
 ````
 11. What is the available free memory in the system. ***(1 mark)*** 
+- 5.9 GiB
+12. What is the available disk space mounted on /workspace. ***(1 mark)*** 
 - 20 GB
-12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
