@@ -240,7 +240,7 @@ shm                65536        8     65528   1% /dev/shm
 ````
 5. Run the command **ls** . ***(1 mark)***
 ````bash
-
+README.md  images
 ````
 6. Run the command **ls -asl** . ***(1 mark)*** 
 ````bash
