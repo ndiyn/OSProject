@@ -253,7 +253,9 @@ total 40
 ````
 7. Run the command **free -h** . ***(1 mark)*** 
 ````bash
-
+              total        used        free      shared  buff/cache   available
+Mem:          7.7Gi       1.5Gi       516Mi        67Mi       5.7Gi       5.9Gi
+Swap:            0B          0B          0B
 ````
 8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** 
 ````bash
