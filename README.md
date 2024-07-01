@@ -364,7 +364,8 @@ Linux codespaces-fb5def 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59
 - 5.9 GiB
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** 
 - 20 GB
-13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
+13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** 
+- 64-bit Ubuntu 22.04 LTS with a kernel version 6.5.0 tuned for Azure environments.
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
 15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
