@@ -369,7 +369,8 @@ Linux codespaces-fb5def 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** 
 - ls -shows filenames and directories only.
 - ls -asl shows detailed information including sizes and permissions of all files, including hidden ones.
-15. What is the TLB size of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
+15. What is the TLB size of the Virtual CPU. ***(1 mark)*** 
+- 2560 4K pages
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** __Fill answer here__.
 17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
 
