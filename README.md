@@ -6,7 +6,7 @@ Section: __2__.
 
 Team Mates:
 1. __Nurdiyana Shahirah binti Azlan__ and __2210236__ 
-2. __Nursyazwana Athirah binti Samsul Badri__ and __2216936__
+2. __Nursyazwana Athirah binti Samsul Badri__ and __2216936__.
 3. __Sofeah Khairun Nisa binti Asman__ and __2210832__
 
 
