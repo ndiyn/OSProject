@@ -115,15 +115,48 @@ messagebus:x:104:105::/nonexistent:/usr/sbin/nologin
 codespace:x:1000:1000::/home/codespace:/bin/bash
 sshd:x:105:65534::/run/sshd:/usr/sbin/nologin
 ```
-3. Run the command **df** . ***(1 mark)*** __Fill answer here__.
-4. Run the command **du** . ***(1 mark)*** __Fill answer here__.
-5. Run the command **ls** . ***(1 mark)*** __Fill answer here__.
-6. Run the command **ls -asl** . ***(1 mark)*** __Fill answer here__.
-7. Run the command **free -h** . ***(1 mark)*** __Fill answer here__.
-8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** __Fill answer here__.
-9. Run the command **top** and type **q** to quit. ***(1 mark)*** __Fill answer here__.
-10. Run the command **uname -a**. ***(1 mark)*** __Fill answer here__.
-11. What is the available free memory in the system. ***(1 mark)*** __Fill answer here__.
+3. Run the command **df** . ***(1 mark)*** 
+````bash
+Filesystem     1K-blocks     Used Available Use% Mounted on
+overlay         32847680 10381628  20771956  34% /
+tmpfs              65536        0     65536   0% /dev
+shm                65536        8     65528   1% /dev/shm
+/dev/root       30298176 24346292   5935500  81% /vscode
+/dev/loop3      32847680 10381628  20771956  34% /workspaces
+/dev/sdb1       46127956      132  43752248   1% /tmp
+````
+4. Run the command **du** . ***(1 mark)*** 
+````bash
+
+````
+5. Run the command **ls** . ***(1 mark)***
+````bash
+
+````
+6. Run the command **ls -asl** . ***(1 mark)*** 
+````bash
+
+````
+7. Run the command **free -h** . ***(1 mark)*** 
+````bash
+
+````
+8. Run the command **cat /proc/cpuinfo** . ***(1 mark)*** 
+````bash
+
+````
+9. Run the command **top** and type **q** to quit. ***(1 mark)*** 
+````bash
+
+````
+10. Run the command **uname -a**. ***(1 mark)***
+````bash
+
+````
+11. What is the available free memory in the system. ***(1 mark)*** 
+````bash
+
+````
 12. What is the available disk space mounted on /workspace. ***(1 mark)*** __Fill answer here__.
 13. Name the version and hardware architecture of the linux Virtual environment. ***(1 mark)*** __Fill answer here__.
 14. What is the difference between **ls** vs **ls -asl**. ***(1 mark)*** __Fill answer here__.
