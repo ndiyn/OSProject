@@ -373,7 +373,8 @@ Linux codespaces-fb5def 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59
 - 2560 4K pages
 16. What is the CPU speed of the Virtual CPU. ***(1 mark)*** 
 - 3243.524 MHz
-17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** __Fill answer here__.
+17. What is the top running process that consumes the most CPU cycles. ***(1 mark)*** 
+- 8857 codespa+  20   0   21.5g 341076  49920 S   2.0   4.2   0:34.63 node        
 
 ## Running your own container instance.
 
